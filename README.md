@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://wx1.sbimg.cn/2020/08/06/o6JW6.png" alt="Hello world">
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  I’m XiaoKa,haha....<br>
 </p>
 
 <!--
