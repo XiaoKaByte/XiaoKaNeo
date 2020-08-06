@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img src="https://wx1.sbimg.cn/2020/08/06/o6JW6.png" alt="Hello world">
+<img src="https://ftp.bmp.ovh/imgs/2020/08/ff56bf1da3cada28.png" alt="Hello world">
 
-<p align="center"> 
+<p align="center" font-weight:"bold" font-size:"30px"> 
   I’m XiaoKa,haha....<br>
 </p>
 
