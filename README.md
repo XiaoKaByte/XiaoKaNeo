@@ -2,9 +2,16 @@
 
 <img src="https://ftp.bmp.ovh/imgs/2020/08/ff56bf1da3cada28.png" alt="Hello world">
 
-<p align="center" font-weight:"bold" font-size:"30px"> 
-  I’m XiaoKa,haha....<br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/xiaoka-li/count.svg" />
 </p>
+
+<hr>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaoka-li&show_icons=true&theme=tokyonight&hide=Total%20PRs)](https://github.com/xiaoka-li/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoka-li&layout=compact&theme=tokyonight&card_width=400)](https://github.com/xiaoka-li/github-readme-stats)
+
 
 <!--
 **xiaoka-li/xiaoka-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
