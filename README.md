@@ -9,8 +9,8 @@
 
 <hr>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaoka-li&show_icons=true&theme=tokyonight&hide=Total%20PRs)](https://github.com/xiaoka-li/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoka-li&layout=compact&theme=tokyonight&card_width=400)](https://github.com/xiaoka-li/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaoka-li&hide=Total%20Rs&show_icons=true&theme=tokyonight)](https://github.com/xiaoka-li/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoka-li&layout=compact&theme=tokyonight&card_width=400&hide=html,javascript,css)](https://github.com/xiaoka-li/github-readme-stats)
 
 
 <!--
