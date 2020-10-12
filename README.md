@@ -1,29 +1,32 @@
-### Hi there 👋
-
-<img src="https://ftp.bmp.ovh/imgs/2020/08/ff56bf1da3cada28.png" alt="Hello world">
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/xiaoka-li/count.svg" />
+<p align="center">
+<br><img src="https://s1.ax1x.com/2020/10/12/0RhOHK.gif" width="280px"><br><br>
 </p>
+<h3 align="right">Connect with me :</h3>
+<a href="https://linkedin.com/in/chiraag-kakar">
+  <img align="right" alt="Chiraag Kakar - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+<a href="https://dev.to/chiraag_kakar">
+  <img align="right"  alt="Chiraag Kakar - DEV" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="22px">
+</a>
+<a href="https://instagram.com/0212chiraag">
+  <img align="right" alt="Chiraag Kakar - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+</a>
+<a href="https://twitter.com/0212Chiraag">
+  <img align="right" alt="Chiraag Kakar - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+</a>
+<a href="https://facebook.com/0212Chiraag">
+  <img align="right" alt="Chiraag Kakar - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
+</a>
+<br/>
+<br/>
+<h2 align="center">Hi 👋, I'm Xiaoka</h1>
 
-<hr>
+```java
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaoka-li&hide=Total%20Rs&show_icons=true&theme=tokyonight)](https://github.com/xiaoka-li/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoka-li&theme=tokyonight&hide=html,javascript,css)](https://github.com/xiaoka-li/github-readme-stats)
+public class  HelloWold{
+    public static void main(String[] args) {
+       System.out.println(" Hello，I'm xiaoka ");
+    }
+}
 
-
-<!--
-**xiaoka-li/xiaoka-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
